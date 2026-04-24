@@ -10,5 +10,5 @@ def bubble_sort(vetor):
                 vetor[i], vetor[i+1] = vetor[i+1], vetor[i]
                 print(vetor)
                 ordenado = False
-    return vetor
+    return
 bubble_sort(vetor)      
