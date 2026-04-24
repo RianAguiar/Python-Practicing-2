@@ -1,5 +1,4 @@
 vetor = [3,6,9,2,1,7,9,2,1,7,0]
-
 def bubble_sort(vetor):
     quantidade = len(vetor)-1
     ordenado = False
